@@ -14,12 +14,11 @@ Tv is resizable and can be turned on and off</p>
 
 <h1>Screenshots</h1>
 <p>
-  <a href='#img1'><img id='img1' width = '49%' src='device-2019-02-05-123200.png'/></a>
-  <a href='#img2'><img id='img2' width = '49%' src='device-2019-02-05-123255.png'/></a>
+  <a href='#img1'><img id='img1' width = '49%' src='IMG_0693.png'/></a>
+  <a href='#img2'><img id='img2' width = '49%' src='IMG_0694.png'/></a>
 </p>
 <p>
-  <a href='#img3'><img id='img3' width = '49%' src='device-2019-02-05-123346.png'/></a>
-  <a href='#img4'><img id='img4' width = '49%' src='device-2019-02-05-123438.png'/></a>
+  <a href='#img3'><img id='img3' width = '49%' src='IMG_0695.png'/></a>
 </p>
 
 <h1>License</h1>
