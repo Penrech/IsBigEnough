@@ -24,7 +24,7 @@ Tv is resizable and can be turned on and off</p>
 
 <h1>Video</h1>
 <p>
-  <a href='#img1'><img id='img1' width = '49%' src='is_big_enough_cover.png'/></a>
+  <a href='https://youtu.be/2q1Old2Rbis'><img id='img1' width = '49%' src='is_big_enough_cover.png'/></a>
 </p>
 
 <h1>License</h1>
